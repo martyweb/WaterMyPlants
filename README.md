@@ -18,6 +18,6 @@ Tired of watering your plants? This will do it for you!
 2. Triggers water pump when dry
 3. Displays all info on OLED
 
-![Image of Project](https://github.com/martyweb/tempToOLED128x64/blob/master/20220522_004015439_iOS.jpg)
+![Image of Project](https://raw.githubusercontent.com/martyweb/WaterMyPlants/main/20220522_004015439_iOS.jpg)
 
 
